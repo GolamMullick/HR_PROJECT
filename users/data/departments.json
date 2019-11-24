@@ -1,0 +1,27 @@
+{
+  "project": [
+    {
+      "name": "Owner",
+      "description": "Owner department holds the user who created the module/app. This department cannot be deleted or modified.",
+      "short_name": "owner"
+    },
+    {
+      "name": "Administration",
+      "description": "This department is for administrative works associated with a module/app.",
+      "short_name": "administration"
+    }
+  ],
+  "hr": [
+    {
+      "name": "Owner",
+      "description": "Owner department holds the user who created the module/app. This department cannot be deleted or modified.",
+      "short_name": "owner"
+    },
+    {
+      "name": "Administration",
+      "description": "This department is for administrative works associated with a module/app.",
+      "short_name": "administration"
+    }
+  ],
+  "accounting": []
+}

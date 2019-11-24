@@ -1,0 +1,34 @@
+{
+  "permissions": [
+    {
+      "name": "Add"
+    },
+    {
+      "name": "Edit"
+    },
+    {
+      "name": "Remove"
+    },
+    {
+      "name": "List"
+    },
+    {
+      "name": "View"
+    },
+    {
+      "name": "Upload"
+    },
+    {
+      "name": "Download"
+    },
+    {
+      "name": "Log"
+    },
+    {
+      "name": "Assign"
+    },
+    {
+      "name": "Invite"
+    }
+  ]
+}

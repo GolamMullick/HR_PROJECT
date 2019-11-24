@@ -1,0 +1,34 @@
+{
+  "modules": [
+    {
+      "name": "Project",
+      "slug": "project",
+      "description": "Project Management System",
+      "status": 1
+    },
+    {
+      "name": "HR",
+      "slug": "hr",
+      "description": "Human Resource Management System",
+      "status": 1
+    },
+    {
+      "name": "Accounts",
+      "slug": "account",
+      "description": "Accounting Management System",
+      "status": 1
+    },
+    {
+      "name": "Supply Chain",
+      "slug": "supply",
+      "description": "Supply Chain Management System",
+      "status": 1
+    },
+    {
+      "name": "Ecommerce",
+      "slug": "ecommerce",
+      "description": "Ecommerce Management System",
+      "status": 1
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "project": [
+    {
+      "name": "Super User",
+      "description": "This role represents the owner of the module/app. This role cannot be deleted/modified.",
+      "short_name": "super_user"
+    },
+    {
+      "name": "Super Admin",
+      "description": "Head of administration dept. Controls the admin works.",
+      "short_name": "super_admin"
+    }
+  ],
+  "hr": [
+    {
+      "name": "Super User",
+      "description": "This role represents the owner of the module/app. This role cannot be deleted/modified.",
+      "short_name": "super_user"
+    },
+    {
+      "name": "Super Admin",
+      "description": "Head of administration dept. Controls the admin works.",
+      "short_name": "super_admin"
+    }
+  ],
+  "accounting": []
+}
